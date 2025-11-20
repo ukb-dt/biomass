@@ -62,7 +62,59 @@ In Linear Algebra, an **eigenvector** ($\vec{v}$) of a transformation ($A$) is a
 
 **Muzaale’s Intervention Focus:** His work is about changing the system's structure (the matrix $A$) so that the eigenvalues are **damped** or **stabilized** against environmental shocks. For instance, **social services** become a **parallel eigenvector** that can sustain the system (man) even if the primary crop/animal vector collapses. 
 
-![eco/biomass.jpg](eco/biomass.jpg)
+<img 
+    src="eco/biomass.jpg" 
+    alt="Biomass Transfer Topology Diagram" 
+    usemap="#biomassmap" 
+    id="biomass-image" 
+    style="max-width: 100%; height: auto; display: block; margin: 20px auto;"
+/>
+
+<map name="biomassmap" id="biomassmap">
+    <area 
+        shape="circle" 
+        coords="100,100,50" 
+        href="javascript:void(0)" 
+        onclick="toggleDetail('sun-detail');" 
+        alt="Sun/Energy Source" 
+        title="Click for Sun/Physics Detail"
+    />
+    
+    <area 
+        shape="rect" 
+        coords="200,50,400,150" 
+        href="javascript:void(0)" 
+        onclick="toggleDetail('photosynthesis-detail');" 
+        alt="Photosynthesis/Transformation" 
+        title="Click for Transformation Detail"
+    />
+    
+    </map>
+
+<div id="sun-detail" class="detail-popup" style="display:none; border: 1px solid #007bff; background-color: #e9f5ff; padding: 15px; margin: 10px auto; max-width: 600px; text-align: center;">
+    ### ☀️ Sun/Geothermal (Physics: Data Frame)
+    **Role:** The stable source of Energy $E$. A major shock (drought) to this element instantly destabilizes the system.
+</div>
+
+<div id="photosynthesis-detail" class="detail-popup" style="display:none; border: 1px solid #28a745; background-color: #e6f7ea; padding: 15px; margin: 10px auto; max-width: 600px; text-align: center;">
+    ### 🌱 Photosynthesis/XXxsythesis (Transformation/Autoencoder)
+    **Role:** The conversion mechanism. This step determines the initial biomass output ($E(t|x)$) and its efficiency ($\eta$).
+</div>
+
+<script>
+function toggleDetail(id) {
+    const element = document.getElementById(id);
+    if (element.style.display === 'none' || element.style.display === '') {
+        // Hide all other popups
+        document.querySelectorAll('.detail-popup').forEach(p => p.style.display = 'none');
+        // Show the clicked popup
+        element.style.display = 'block';
+    } else {
+        // Hide the currently visible popup
+        element.style.display = 'none';
+    }
+}
+</script>
 
 
 ---
