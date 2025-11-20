@@ -62,7 +62,7 @@ In Linear Algebra, an **eigenvector** ($\vec{v}$) of a transformation ($A$) is a
 
 **Muzaale’s Intervention Focus:** His work is about changing the system's structure (the matrix $A$) so that the eigenvalues are **damped** or **stabilized** against environmental shocks. For instance, **social services** become a **parallel eigenvector** that can sustain the system (man) even if the primary crop/animal vector collapses. 
 
-[eco/biomass.jpg]
+![eco/biomass.jpg](eco/biomass.jpg)
 
 
 ---
