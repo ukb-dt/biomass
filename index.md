@@ -464,7 +464,7 @@ $$
 collapses. This occurs **even if** aggregate food availability (your “flow”),
 
 $$
-\frac{dE_x}{dt},
+\frac{dE_x̄}{dt},
 $$
 
 does **not** decline.
@@ -510,6 +510,36 @@ For 45 years, development economics has had:
 - But no rigorous mathematical framework connecting them
 
 You've provided that bridge: **Entitlement collapse as path-dependent trajectory locking.**
+
+---
+
+Bangladesh 1974 is the textbook case because:     
+
+**Food availability $(E)$ stayed constant or even rose.        
+But food *access* $(E(t|x̄))$ for rural laborers collapsed.**     
+
+Why?
+
+Urban demand pulled prices up.      
+Rural wages stayed flat.        
+The exchange-rate between “a day of labor” and “a kilo of rice” fell off a cliff.      
+
+So you get the famous sentence:      
+
+**“Famines can occur even when aggregate food availability does not decline.”**       
+
+Because the famine didn’t come from lack of food.     
+
+It came from lack of *entitlement*—the ability to command food.      
+
+Cities ate.    
+Markets were full.     
+The country starved.    
+
+That paradox *is* Sen’s whole theory.   
+
+
+---
 
 ## Towards an Agent-Based Simulation
 
