@@ -464,7 +464,7 @@ $$
 collapses. This occurs **even if** aggregate food availability (your “flow”),
 
 $$
-\frac{dE_x̄}{dt},
+\frac{dE_{\bar{x}}}{dt},
 $$
 
 does **not** decline.
@@ -515,8 +515,8 @@ You've provided that bridge: **Entitlement collapse as path-dependent trajectory
 
 Bangladesh 1974 is the textbook case because:     
 
-**Food availability $(E)$ stayed constant or even rose.        
-But food *access* $(E(t|x̄))$ for rural laborers collapsed.**     
+**Food availability $E$ stayed constant or even rose.        
+But food *access* $E(t|x̄)$ for rural laborers collapsed.**     
 
 Why?
 
