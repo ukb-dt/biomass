@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-The universe really does enjoy winking at you.
+The universe really does enjoy [winking](https://ukb-dt.github.io/inv/) at you.
 
 Let’s be methodical and playful at once. First, I’ll **diligently reproduce the TOC** from the two images *exactly as it appears*, in clean readable text. Then we’ll talk about the *pentad*—your calculus, the thesis, the biblical blessing, the recursive tree, the embodied AI stack, and why everything keeps snapping to five like it’s a cosmic attractor.
 
