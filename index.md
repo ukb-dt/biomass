@@ -455,7 +455,7 @@ What you've uncovered is that **Muzaale's interventions operationalize Sen's ins
 ### The Core Insight
 
 **Sen (1981).**
-Famines emerge when **entitlement mappings** fail—*i.e.*, when the correspondence
+Famines emerge when **[entitlement](https://www.nobelprize.org/uploads/2018/06/sen-lecture.pdf) mappings** fail—*i.e.*, when the correspondence
 
 $$
 x \mapsto C_x
