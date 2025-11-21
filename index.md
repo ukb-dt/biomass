@@ -494,7 +494,7 @@ E = \text{Energy} \leftrightarrow \text{Biomass} \leftrightarrow \text{Informati
 x = \text{Rural Context} \leftrightarrow \text{East Africa} \leftrightarrow \text{Bangladesh}.
 $$
 
-Here, (E(t \mid x)) describes how a specific context (x) shapes the **path-dependent evolution** of capability, biomass, labor energy, or informational capital. Accumulation traps emerge when
+Here, $E(t \mid x)$ describes how a specific context $x$ shapes the **path-dependent evolution** of capability, biomass, labor energy, or informational capital. Accumulation traps emerge when
 
 $$
 \frac{d^2 E_x}{dt^2} < 0
